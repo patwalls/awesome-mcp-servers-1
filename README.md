@@ -268,6 +268,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Rube](https://rube.composio.dev)** - Rube is a Model Context Protocol (MCP) server that connects your AI tools to 500+ apps like Gmail, Slack, GitHub, and Notion. Simply install it in your AI client, authenticate once with your apps, and start asking your AI to perform real actions like "Send an email" or "Create a task."
 - **[Search1API](https://github.com/fatwang2/search1api-mcp)** - One API for Search, Crawling, and Sitemaps
 - **[Scrapeless](https://github.com/scrapeless-ai/scrapeless-mcp-server)** - Integrate real-time [Scrapeless](https://www.scrapeless.com/en) Google SERP(Google Search, Google Flight, Google Map, Google Jobs....) results into your LLM applications. This server enables dynamic context retrieval for AI workflows, chatbots, and research tools.
+- **[Superhighway](https://github.com/patwalls/superhighway-mcp)** - Web search MCP server for AI agents — search, news, images, scrape, and research. Pay per call in USDC via x402 (no signup) or free API key. `npx -y superhighway-mcp`
 - **[Scrapezy](https://github.com/scrapezy/mcp)** - Turn websites into datasets with [Scrapezy](https://scrapezy.com)
 - **[ScreenshotMCP](https://github.com/upnorthmedia/ScreenshotMCP/)** - Capture website screenshots including full page, elements, and device specific sizes.
 - **[ScreenshotOne](https://github.com/screenshotone/mcp/)** - Render website screenshots with [ScreenshotOne](https://screenshotone.com/)
