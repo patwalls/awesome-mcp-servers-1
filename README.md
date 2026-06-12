@@ -154,6 +154,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[ELEMENT.FM](https://gitlab.com/elementfm/mcp)** - Create and publish unlimited podcast shows and episodes with [ELEMENT.FM](https://element.fm)
 - **[ElevenLabs](https://github.com/elevenlabs/elevenlabs-mcp)** - The official ElevenLabs MCP server
 - **[Exa](https://github.com/exa-labs/exa-mcp-server)** - Search Engine made for AIs by [Exa](https://exa.ai)
+- **[Feedhook](https://github.com/patwalls/feedhook-mcp)** - Turn a YouTube channel into a webhook: a signed HTTP POST to your URL ~8 seconds after every new video (YouTube WebSub underneath — no polling, no API quota). Subscribe by @handle, test deliveries, read per-attempt delivery logs.
 - **[FetchSERP](https://github.com/fetchSERP/fetchserp-mcp-server-node)** - All-in-One SEO & Web Intelligence Toolkit API [FetchSERP](https://www.fetchserp.com)
 - **[Fewsats](https://github.com/Fewsats/fewsats-mcp)** - Enable AI Agents to purchase anything in a secure way using [Fewsats](https://fewsats.com)
 - **[FHIR](https://github.com/wso2/fhir-mcp-server/)** - Model Context Protocol server for Fast Healthcare Interoperability Resources (FHIR) APIs, enabling seamless integration with healthcare data through SMART-on-FHIR authentication and comprehensive FHIR operations.
